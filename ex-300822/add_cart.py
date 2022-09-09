@@ -17,3 +17,8 @@ def get_all_items_cart():
 def get_item_cart_by_id(id_product):
   new_list = [item for item in cart if item[0 == id_product]]
   return new_list
+
+  #remove
+  #usar pop
+  
+  #calcular o total do carrinho
